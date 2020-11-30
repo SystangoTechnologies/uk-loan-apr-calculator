@@ -1,0 +1,21 @@
+{
+    "name": "ukloanaprcalculator",
+    "version": "1.0.0",
+    "description": "APR calculations used by United Kindom",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "grunt build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mufaddal Kangsawala",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "^1.0.4",
+        "grunt-concurrent": "^3.0.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-shell": "^3.0.1",
+        "grunt-ts": "^6.0.0-beta.22",
+        "typescript": "^3.5.2"
+    }
+}
